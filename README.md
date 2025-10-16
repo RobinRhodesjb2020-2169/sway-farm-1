@@ -30,3 +30,5 @@ Next, run the frontend locally with `npm start`.
 The contract ID will automatically be updated, but the asset ID won't, so you'll have to make sure that is updated everytime the contract redeploys.
 
 Make sure your wallet is also connected to your local network instead of the testnet.
+
+<!-- Auto-update: 2025-10-16T13:41:21.358914 -->
